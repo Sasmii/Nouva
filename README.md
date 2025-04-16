@@ -6,3 +6,6 @@ As limitless as the unknown.
 Just like the unknown, it is limitless in its potential, capable of expressing the deepest emotions, the most abstract concepts, and the most complex creations. 
 
 Its purpose is to be a system where complexities can be broken down to be better understood or things can be conbined to add complexity. the limits of reality can be pushed. 
+
+
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
